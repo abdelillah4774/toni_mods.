@@ -3,7 +3,7 @@ const mods = [
      name: "Dragon Add-on mod",
      description: "Adds new dragons to Minecraft.",
      image: "https://j.top4top.io/p_3393a3hx31.png",
-     file: "https://www.mediafire.com/file/45qxxn2ivmmzn0h/DRAGONS_Add-on_Update_1.3.mcaddon/file"
+     file: "https://optilinklock.com/1787009"
    },
    {
      name: "Epic samurai",
